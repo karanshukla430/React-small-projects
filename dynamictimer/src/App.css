@@ -1,0 +1,24 @@
+.main{
+    background-color: #454545;
+      color: white;
+    margin: 0;
+    height: 100vh;
+  }
+  .App{
+    display: flex;
+    justify-content:center ;
+    margin: auto;
+    padding-top: 30vh;
+  }
+  .btn{
+    margin: 15px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+  }
+  .counter{
+    font-size: 18px;
+    color: aquamarine;
+  }
