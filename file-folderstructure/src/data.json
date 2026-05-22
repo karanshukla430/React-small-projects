@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "name": "accordian",
+        "isFolder": true,
+        "children": [
+            {
+                "id" :"2",
+                "name": "node_modules",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "3",
+                        "name": "random",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "name": "src",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "5",
+                        "name": "App.jsx",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "name": "package.json",
+                "isFolder": false
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "countDownTimer",
+        "isFolder": true,
+        "children": [
+            {
+                "id" :"8",
+                "name": "node_modules",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "9",
+                        "name": "random",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "name": "src",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "11",
+                        "name": "App.jsx",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "name": "package.json",
+                "isFolder": false
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "infiniteScroll",
+        "isFolder": true,
+        "children": [
+            {
+                "id" :"14",
+                "name": "node_modules",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "15",
+                        "name": "random",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "name": "src",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "17",
+                        "name": "App.jsx",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "name": "package.json",
+                "isFolder": false
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "name": "starRating",
+        "isFolder": true,
+        "children": [
+            {
+                "id" :"20",
+                "name": "node_modules",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "21",
+                        "name": "random",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "name": "src",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id" : "23",
+                        "name": "App.jsx",
+                        "isFolder": false
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "name": "package.json",
+                "isFolder": false
+            }
+        ]
+    }
+]
